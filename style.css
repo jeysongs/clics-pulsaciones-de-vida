@@ -1,4 +1,6 @@
 body {
     font-family: sans-serif;
+    /* Usamos un gris muy claro (similar al bg-gray-50 de Tailwind) 
+       para que el fondo inicial no desentone con la app al cargar. */
     background-color: #f9fafb;
 }
